@@ -1,0 +1,14 @@
+Package: ruc2
+Version: 0.1.1
+Title: Handle UC2 data in R
+Authors@R: c(
+    person("Benjamin", "Schmidt", role = c("aut", "cre"), email="benjamin.schmidt@tu-berlin.de"),
+    person("David", "Steger", role = "aut"))
+License: MIT
+URL: https://github.com/benatouba/ruc2
+AUTHOR: Benjamin Schmidt [aut, cre],
+    David Steger [aut]
+Encoding: UTF-8
+RoxygenNote: 7.0.2
+Maintainer: Benjamin Schmidt <benjamin.schmidt@tu-berlin.de>
+Imports: RNetCDF, lubridate, rgdal, sp
